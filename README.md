@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @juanbart
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @Juan Ivan
+- 👀 I’m interested in developer java backend, mobile and web.
+- 🌱 I’m currently learning docker and aws console.
 
-<!---
-juanbart/juanbart is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
